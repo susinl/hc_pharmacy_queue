@@ -1,0 +1,2 @@
+ALTER TABLE prescription
+ADD numberOfQ3 int ,inprocessQ3 int ,numberOfB1 int;
